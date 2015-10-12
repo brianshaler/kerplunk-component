@@ -2,7 +2,7 @@
   "name": "kerplunk-component",
   "displayName": "Component Editor",
   "description": "Dangerously execute arbitrary code on the server and in the browser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "kerplunk-plugin",
     "kp:Dev"
