@@ -13,7 +13,7 @@
   "main": "./lib/index.js",
   "dependencies": {
     "coffee-script": "^1.9.1",
-    "lodash": "^3.7.0",
+    "lodash": "^4.6.1",
     "react": "^0.13.2",
     "react-tools": "^0.13.3",
     "reactive-data": "0.0.4"
